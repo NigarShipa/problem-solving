@@ -1,0 +1,51 @@
+﻿# Rider IDE files
+.idea/
+.idea/**
+
+# Rider specific logs and caches
+.idea/.idea.Rider/
+.idea/.cache/
+.idea/system/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+out/
+artifacts/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# ASP.NET temp files
+**/wwwroot/lib/
+**/wwwroot/node_modules/
+
+# VS-specific files
+*.vs/
+.vscode/
+
+# Resharper / Rider settings
+_ReSharper*/
+*.ReSharper
+*.DotSettings.user
+
+# Logs
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Rider workspace files (optional)
+.idea/workspace.xml
+.idea/tasks.xml

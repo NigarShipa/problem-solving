@@ -36,12 +36,7 @@ public class Program
         Remove_Given_Character.RemoveCharacter();
         Console.WriteLine("*******************************15*********************");
         First_Non_Repeating_Number.NonrepeatNumber();
-
-
-
+        Console.WriteLine("********************************16********************");
+        Length_of_Last_String.LengthofLastString();
     }
 }
-
-
-
-
